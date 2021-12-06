@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve 8081` 
+Run `ng serve --port 8081` 
 
 ## Code scaffolding
 
